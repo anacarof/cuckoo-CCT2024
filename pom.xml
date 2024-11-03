@@ -17,6 +17,9 @@ This XML file does not appear to have any style information associated with it. 
 <java.version>1.8</java.version>
 <maven.compiler.source>${java.version}</maven.compiler.source>
 <maven.compiler.target>${java.version}</maven.compiler.target>
+    <sonar.organization>anacarof</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  
 </properties>
 <dependencies>
 <dependency>
